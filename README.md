@@ -21,10 +21,12 @@ The repository features several key visualizations:
 - Security delays were shown to have minimal impact on the overall delay patterns, while factors like previous aircraft delays, carrier issues, and weather conditions were more significant.
 - A notable finding is the strong correlation between departure and arrival delays, indicating that improvements in managing departure times could significantly enhance arrival punctuality.
 
-## Installation/Usage
-To access and interact with the visualizations:
-1. Download the Power BI file from this repository.
-2. Open the file using Power BI Desktop. If you don't have it installed, download it from [Microsoft's official website](https://powerbi.microsoft.com/en-us/downloads/).
+## Download the Power BI File
+The Power BI file is too large to host directly on GitHub. It has been hosted on Google Drive and can be downloaded from the following link:
+
+[Download Power BI File](https://drive.google.com/file/d/11DRvlHGK7D3uRbXH_LEG245EfyO3O48E/view?usp=sharing)
+
+Please download and open it using Power BI Desktop to view the visualizations.
 
 ## Contact
 For queries or collaborations, feel free to reach out via [mskhatri03@yahoo.com].
