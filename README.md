@@ -12,7 +12,8 @@ The repository features several key visualizations:
 -Detailed delay analysis by airline and airport
 -Correlations between different types of delays
 
-#Key Insights
+#Key Insights:
+
 -A total of 2.56 million flights experienced departure delays, while 2.47 million flights faced arrival delays.
 The analysis highlights no direct correlation between the number of flights and the magnitude of delays, suggesting other underlying factors.
 Security delays were shown to have minimal impact on the overall delay patterns, while factors like previous aircraft delays, carrier issues, and weather conditions were more significant.
